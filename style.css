@@ -1,0 +1,8 @@
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    padding: 50px;
+}
+.footer svg {
+    margin: 15px;
+}
